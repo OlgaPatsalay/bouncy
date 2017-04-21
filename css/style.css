@@ -192,6 +192,7 @@ h2 {
   height: auto; }
 
 .isotope-item {
+  display: block;
   margin: 5px;
   max-width: calc(25% - 10px);
   line-height: 0; }
