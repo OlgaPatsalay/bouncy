@@ -1,5 +1,7 @@
 ;(function ($) {
-    $(document).ready(function () {
+    "use strict";
+
+    $(window).load(function () {
 
         var isotopeContainer = $('.isotope-cont');
 
