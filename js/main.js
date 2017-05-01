@@ -6,7 +6,10 @@
 
         isotopeContainer.isotope({
             itemSelector: '.isotope-item',
-            layoutMode: 'masonry'
+            layoutMode: 'masonry',
+            masonry: {
+                gutter: 10
+            }
         });
 
 
