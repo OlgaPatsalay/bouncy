@@ -216,6 +216,7 @@ h2 {
   max-width: calc(25% - 10px);
   line-height: 0;
   margin-bottom: 10px;
+  display: block;
  &:hover {
     transform: scale(1.02);
     transition: transform 0.1s ease-in;
