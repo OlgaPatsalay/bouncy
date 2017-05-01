@@ -192,11 +192,11 @@ h2 {
   width: 100%; }
 
 .isotope-item {
-  max-width: calc(25% - 10px);
   line-height: 0;
-  margin-bottom: 10px;
   display: block;
-  overflow: hidden; }
+  overflow: hidden;
+  width: calc((100% - 40px)/4);
+  margin: 5px; }
   .isotope-item:hover {
     transform: scale(1.02);
     transition: transform 0.1s ease-in;
