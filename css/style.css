@@ -341,8 +341,8 @@ h2 {
   .testimonials__slider-item-link a {
     color: inherit;
     text-decoration: none; }
-  .testimonials__slider-item-link:hover {
-    text-shadow: 1px 1px 1px #19bd9a, 0 0 1em #fff; }
+    .testimonials__slider-item-link a:hover {
+      text-shadow: 1px 1px 1px #19bd9a, 0 0 1em #fff; }
 
 .testimonials__slider-item-occupation {
   color: #464646;
