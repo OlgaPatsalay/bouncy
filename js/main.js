@@ -27,7 +27,7 @@
 
 
         $('.testimonials__slider-cont').slick({
-            // autoplay: true,
+            autoplay: true,
             autoplaySpeed: 4000,
             dots: true,
             slidesToShow: 1,

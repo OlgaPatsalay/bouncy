@@ -400,6 +400,10 @@ h2 {
   nav {
     text-align: center; }
 
+  .intro {
+    margin-top: 50px;
+    margin-bottom: 50px; }
+
   .header__logo--light {
     float: none; }
 
