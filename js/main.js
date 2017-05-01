@@ -7,7 +7,10 @@
         isotopeContainer.isotope({
             itemSelector: '.isotope-item',
             layoutMode: 'masonry',
-            percentPosition: true
+            percentPosition: true,
+            masonry: {
+                columnWidth: '.isotope-item'
+            }
 
         });
 
