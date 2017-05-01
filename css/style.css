@@ -396,4 +396,43 @@ h2 {
 .social__v {
   background-color: #86c9ef; }
 
+@media all and (max-width: 760px) {
+  nav {
+    text-align: center; }
+
+  .header__logo--light {
+    float: none; }
+
+  .header__menu {
+    float: left;
+    margin-top: 20px; }
+
+  .row {
+    padding: 10px; }
+
+  .our-team__slider-item-cont {
+    padding-left: 10px;
+    padding-right: 10px; }
+
+  .our-team__photo {
+    float: none;
+    text-align: center; }
+    .our-team__photo img {
+      margin: auto; }
+
+  .our-team__dscr {
+    padding: 5px; }
+
+  .testimonials__slider-item--left {
+    float: none;
+    margin: 5px; }
+
+  .testimonials__slider-item--right {
+    margin: 5px;
+    float: none;
+    width: 100%; }
+
+  .isotope-item {
+    width: calc((100% - 20px)/2); } }
+
 /*# sourceMappingURL=style.css.map */
