@@ -188,11 +188,9 @@ h2 {
   opacity: 1; }
 
 .portfolio__items img {
-  width: 100%;
-  height: auto; }
+  width: 100%; }
 
 .isotope-item {
-  display: block;
   margin: 5px;
   max-width: calc(25% - 10px);
   line-height: 0; }
